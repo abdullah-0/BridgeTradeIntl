@@ -1,0 +1,4 @@
+.idea
+.gitignore
+*/migrations
+db.sqlite3
