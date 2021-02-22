@@ -32,8 +32,9 @@ class CategoryView(APIView):
     def post(self, request, format=None):
         data = request.data
         addTree(data, False, -1)
-        return Response('Success', status=status.HTTP_201_CREATED)
-
+        category = Category.objects.all()
+        serializer = CategorySerializer(category, many=True)
+        return Response(serializer.data)
 
 class CategoryDetailView(APIView):
     def get(self, request, pk, format=None):

@@ -1,6 +1,6 @@
 # Job Task
 
-Task description is available in "Test Assignment Pyhton Developers-converted.pdf"
+Task description is available in "Test Assignment Python Developers-converted.pdf"
 
 ## Getting Started
 
@@ -39,10 +39,10 @@ You can see all the relations of a category  @
 http://127.0.0.1:8000/category/<id> get request.
 ## Support
 
-In case of any issue please contact @ ma.tahirk@gmail.com
+In case of any issue please contact Authors
 
 ## Authors
 
-* **Muhammad Abdullah Tahoir** - *Initial work* - Bridge Trade International.
+* **Muhammad Abdullah Tahir** - *Initial work* - Bridge Trade International.
 
 
