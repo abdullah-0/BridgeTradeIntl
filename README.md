@@ -36,7 +36,7 @@ You can see all the categories in database @
 http://127.0.0.1:8000/category/ get request.
 
 You can see all the relations of a category  @
-http://127.0.0.1:8000/category/<id> get request.
+http://127.0.0.1:8000/category/id/ get request.
 ## Support
 
 In case of any issue please contact Authors
